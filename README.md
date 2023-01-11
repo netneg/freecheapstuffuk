@@ -81,8 +81,8 @@ Websites that locate community projects near you.
 
 * [Timpson offer free suit dry cleaning for unemployed people going to interviews](https://www.timpson.co.uk/services/dry-cleaners/dry-cleaning-unemployed-interview) - posted by u/tilleard1
 * ~~Asda - (this refers to 2022). In Asda Cafes During School Holidays (25th July - 4th September) children aged 16 and under can access a hot or cold meal for just £1 at Asda cafes. Asda has announced that, in a bid to keep children fed over the summer holidays, they’ll be able to grab a meal at their in-store cafes seven days a week, with no minimum adult spend requirement. The Kids Eat for £1 initiative is available all day, every day from July 25 until September 4 as long as the café is open.~~
-* Asda - (this refers to November/December 2022). Asda is offering those aged 60 and over the chance to enjoy soup, a roll and unlimited tea and coffees for just £1 in any of its 205 cafes all day and every day throughout November and December.
-* Morrisons - (this refers to 26th Oct - 6th Nov 2022) - if you go into a Morrisons cafe and 'ask for Henry' they will give you a jacket spud and beans for free.
+* ~~Asda - (this refers to November/December 2022). Asda is offering those aged 60 and over the chance to enjoy soup, a roll and unlimited tea and coffees for just £1 in any of its 205 cafes all day and every day throughout November and December.~~
+* ~~Morrisons - (this refers to 26th Oct - 6th Nov 2022) - if you go into a Morrisons cafe and 'ask for Henry' they will give you a jacket spud and beans for free.~~
 
 
 ---
