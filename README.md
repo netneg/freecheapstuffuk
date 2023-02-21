@@ -1,8 +1,12 @@
-As the cost-of-living threat level reaches 'scary', here's a few resources to get stuff cheaper, sometimes free. Originally posted on [CasualUK](https://www.reddit.com/r/CasualUK/comments/uw8os9/casually_get_stuff_cheaper_or_free_big_old_list/)
+(Hi, visitor from the future. I posted this in May 2022. Please continue to add resources in the comments or tell me if a listed one has gone or changed. I'll be alerted and make the change. If you just want to keep up to date with this post, click the bell icon to receive update alerts.)
+
+As the cost-of-living threat level reaches 'scary', here's a few resources to get stuff cheaper, sometimes free. Please add any **legit** resources you know of. Let's help each other a bit m'kay?
+
+Mirrors: [Rentry](https://rentry.co/ukcheapfreestuff) | [GitHub](https://github.com/netneg/freecheapstuffuk) | [Teddit](https://teddit.net/r/CasualUK/comments/uw8os9/casually_get_stuff_cheaper_or_free_big_old_list/) | [LibReddit](https://reddit.leptons.xyz/r/CasualUK/comments/uw8os9/casually_get_stuff_cheaper_or_free_big_old_list/)
 
 ## Food/Meals
 
-### Food banks
+* ### Food banks
 
 Offer free food, you might need to qualify and qualification differs by area. The one nearest to you will tell you what you need to qualify.
 
@@ -11,7 +15,7 @@ Offer free food, you might need to qualify and qualification differs by area. Th
 3. [Independent Food Banks](https://www.foodaidnetwork.org.uk/independent-food-banks-map)
 4. [Food Aid Network UK](https://www.foodaidnetwork.org.uk/independent-food-banks-map)
 
-### Apps
+* ### Apps
 
 1. [Olio - Find food (and other stuff) that shops/people are about to chuck](https://olioex.com/about/#about)
 2. [Recipe app](https://www.mealime.com/) - Creates a shopping list and combines ingredients so, for example, if you have 2 recipes that require half an onion it tells you to buy one onion
@@ -19,7 +23,7 @@ Offer free food, you might need to qualify and qualification differs by area. Th
 4. [TooGoodToGo - Cheap food/meals](https://toogoodtogo.com/)
 5. [Free fruit near to you](https://fallingfruit.org/)
 
-### Community Projects
+* ### Community Projects
 
 Websites that locate community projects near you.
 
@@ -30,7 +34,7 @@ Websites that locate community projects near you.
 5. [Your Local Pantry](https://www.yourlocalpantry.co.uk/pantry-listings/)
 6. [Still Good Food](https://www.stillgoodfood.org/) - Specific to Suffolk
 
-### Online grocery shops. Clearance/near sell-by/discounts
+* ### Online grocery shops. Clearance/near sell-by/discounts
 
 1. [Approved Food](https://www.approvedfood.co.uk/)
 2. [Low Price Foods Ltd](https://lowpricefoods.com/)
@@ -38,13 +42,14 @@ Websites that locate community projects near you.
 4. [BreadAndButterThing](https://www.breadandbutterthing.org/members) - suggested by u/Murfew
 5. [OddBox - Fruit/Veg boxes delivered - all the wonky stuff supermarkets refuse, going cheap](https://www.oddbox.co.uk/)
 6. [Grocery shopping current deals](https://www.moneysavingexpert.com/deals/food-and-drink/#supermarket)
+7. [OopsClearance](https://oopsclearance.co.uk/) - suggested by u/BigFluff_LittleFluff
 
-### Foraging
+* ### Foraging
 
 1. [Foraging Guide from the Woodland Trust](https://www.woodlandtrust.org.uk/visiting-woods/things-to-do/foraging/) - gives you the do's and don'ts as well as a month-by-month guide to what's in season
 2. [Wild Mushroom Guide](https://www.wildfooduk.com/mushroom-guide/) - so you don't, y'know, die or start tripping.
 
-### Misc
+* ### Misc
 
 1. [Free water refills near wherever you are, discounts for reusable containers etc](https://www.refill.org.uk/)
 2. [Current restaurant deals](https://www.moneysavingexpert.com/deals/food-and-drink/#restaurant)
@@ -107,6 +112,8 @@ Websites that locate community projects near you.
 
 ## Media
 
+Yes, I know there are ways to get to the [illegal stuff](https://github.com/nbats/FMHY/wiki/FREEMEDIAHECKYEAH)
+
 * Internet Archive - [Free Movies](https://archive.org/details/feature_films) | [Free Audiobooks](https://archive.org/details/audio_bookspoetry) | [Free Music](https://archive.org/details/audio_music) | [Free Podcasts](https://archive.org/details/podcasts) | [Free software & games](https://archive.org/details/software)
 * Books - [InternetArchive](https://archive.org/details/books?and[]=lending___status%3A%22is_readable%22) | [ManyBooks](https://manybooks.net/) | [Project Gutenberg](https://www.gutenberg.org/) | [FreeBooksy](https://www.freebooksy.com/) | [Libby - an app to borrow books from your library](https://www.overdrive.com/apps/libby) - suggested by u/Crafty_Passenger1979 | [BorrowBox - another library app](https://www.borrowbox.com/) - suggested by u/Sister_Jimjams
 * [Free movies on YouTube](https://freemovies.ltd/)
@@ -120,11 +127,12 @@ Websites that locate community projects near you.
 
 * [Train travel split ticketing](https://book.splitticketing.com/) and also [TrainSplit](https://trainsplit.com/) - suggested by u/espardale
 * [Find the cheapest petrol station near to you](https://www.petrolprices.com/)
+* [ParkFree](https://www.parkfree.co.uk/) - free parking spots across the UK.
 * [Parkopedia - locate the cheapest parking in your destination](https://www.parkopedia.com/)
 * [MegaBus](https://uk.megabus.com/) not as many destinations as a train but A LOT cheaper. When I travel to see my parents it would cost £119 on the train. MegaBus plus a connecting train ticket costs £19
 * [LiftShare for sharing or getting lifts. One-offs and regular](https://liftshare.com/uk)
 * [CarShare same sort of thing as LiftShare, has section for Festivals](https://gocarshare.com/)
-
+* [WheelsToWork SouthWest](https://www.wheels2worksouthwest.org) and [WheelsToWork Derbyshire](https://www.wheelstowork.org) - provide low cost rental of mopeds/scooters to help young people travel to work if there aren't many jobs in their immediate area. The schemes pay for your basic training so that you get on the road asap. Suggested by u/Little-Comfortable26
 
 ---
 
